@@ -1,0 +1,10 @@
+{
+  "item.heartseeker.life_crystal": "Life Crystal",
+
+  "heartseeker.midnightconfig.title": "Heartseeker",
+  "heartseeker.midnightconfig.minHearts": "minHearts",
+  "heartseeker.midnightconfig.maxHearts": "maxHearts",
+  "heartseeker.midnightconfig.loseHeartsOnDeath": "loseHeartsOnDeath",
+  "heartseeker.midnightconfig.resetHeartsOnDeath": "resetHeartsOnDeath",
+  "heartseeker.midnightconfig.heartConsumptionTime": "heartConsumptionTime"
+}
