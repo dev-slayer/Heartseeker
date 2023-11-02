@@ -16,7 +16,7 @@ public class LoseHeartsOnDeath {
         if (Config.resetHeartsOnDeath) {
             HeartseekerMain.setHearts(oldPlayer,Config.minHearts,true);
         } else if (Config.loseHeartsOnDeath) {
-            HeartseekerMain.setHearts(oldPlayer,-1,false);
+            HeartseekerMain.setHearts(oldPlayer,-Config.heartsLostOnDeath,false);
         }
     }
 }

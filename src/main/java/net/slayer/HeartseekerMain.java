@@ -31,7 +31,7 @@ import static net.minecraft.server.command.CommandManager.literal;
 public class HeartseekerMain implements ModInitializer {
 
 	public static final String MOD_ID = "heartseeker";
-	public static final String VERSION = "0.1.1";
+	public static final String VERSION = "0.1.2";
 	public static final UUID heartseekerModificationID = UUID.fromString("235391e3-4686-484b-90ed-f604e57a1225");
     public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
 	public static final Identifier HEARTSEEKER_UPDATED = new Identifier(MOD_ID, "heartseeker_updated");

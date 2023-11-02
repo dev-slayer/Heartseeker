@@ -5,6 +5,7 @@
   "heartseeker.midnightconfig.minHearts": "minHearts",
   "heartseeker.midnightconfig.maxHearts": "maxHearts",
   "heartseeker.midnightconfig.loseHeartsOnDeath": "loseHeartsOnDeath",
+  "heartseeker.midnightconfig.heartsLostOnDeath": "heartsLostOnDeath",
   "heartseeker.midnightconfig.resetHeartsOnDeath": "resetHeartsOnDeath",
   "heartseeker.midnightconfig.heartConsumptionTime": "heartConsumptionTime"
 }
